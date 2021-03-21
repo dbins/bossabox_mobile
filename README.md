@@ -39,6 +39,6 @@ Recursos que foram utilizados:
 
 [![VUTTR](images/mobile_video.png)](http://www.dbins.com.br/videos/bossabox-mobile.mp4)
 
-## Teste unitários
+## Testes unitários
 
-Existem vários testes automatizados do aplicativo. Para executar os testes, a partir da raiz do projeto, basta digitar npm run test. Os testes são referentes aos componentes, reducers e sagas. Caso você instalado de forma global a biblioteca Jest, os testes também podem ser executados ao digitar jest.
+Existem vários testes automatizados do aplicativo. Para executar os testes, a partir da raiz do projeto, basta digitar npm run test. Os testes são referentes aos componentes. Caso você instalado de forma global a biblioteca Jest, os testes também podem ser executados ao digitar jest.

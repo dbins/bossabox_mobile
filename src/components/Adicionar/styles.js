@@ -22,13 +22,13 @@ export const InputFormModal = styled.TextInput`
   font-size: 20px;
   text-align: left;
   color: #8f8a9b;
-  width: ${windowWidth * 0.9};
+  width: ${windowWidth * 0.9}px;
   background:#FFFFFF
   margin-bottom: 15px;
 `;
 
 export const TextareaFormModal = styled.TextInput`
-  width: ${windowWidth * 0.9};
+  width: ${windowWidth * 0.9}px;
   background:#FFFFFF
   font-size: 20px;
   text-align: left;
